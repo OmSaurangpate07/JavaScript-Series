@@ -11,9 +11,15 @@ let valueInNumber = Number(score)
 // console.log(typeof valueInNumber)
 // console.log(valueInNumber)
 
+// After conversion the type will be number but the output is as follows:
+// let score = 
+// Output after conversion:
 // "33" => 33
 // "33abc" => NaN
+// undefined => NaN
+// "Hitesh" => NaN
 // true => 1; false => 0
+
 
 // let isLoggedIn = 1
 // let isLoggedIn = ""
@@ -21,17 +27,21 @@ let isLoggedIn = "Om"
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
+// After conversion the type will be number but the output is as follows:
+// let isLoggedIn = 
+// Output after conversion:
 // 1 => true; 0 => false
 // "" => false
 // "Om" => true
+
 
 let someNumber = 34
 let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
 
-// **************** Operations ****************
 
+// **************** Operations ****************
 let value = 4
 let negativeValue = -value
 // console.log(negativeValue);
