@@ -58,6 +58,7 @@ let negativeValue = -value
 let str1 = "Hello"
 let str2 = " Om"
 let str3 = str1 + str2
+// console.log(str3);
 
 // console.log("1" + "2");
 // console.log(1 + "2");
@@ -65,10 +66,24 @@ let str3 = str1 + str2
 // console.log("1" + 2 + 2);
 // console.log(1 + 2 + "2");
 
+// Output of the above logs:
+// 12
+// 12
+// 12
+// 122
+// 32
+
+
 // console.log(true)
 console.log(+true)
 // console.log(true+)
 console.log(+"")
+// Output of the above logs:
+// true 
+// 1
+// error
+// 0
+
 
 let num1, num2, num3
 num1 = num2 = num3 =  2 + 2
