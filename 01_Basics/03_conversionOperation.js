@@ -45,6 +45,7 @@ let stringNumber = String(someNumber)
 let value = 4
 let negativeValue = -value
 // console.log(negativeValue);
+// Output: -4
 
 // console.log(2 + 2);
 // console.log(2 - 2);
