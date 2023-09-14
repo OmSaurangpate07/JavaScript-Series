@@ -14,7 +14,7 @@ const hundreds = 100000;
 console.log(hundreds.toLocaleString('en-IN'));
 
 
-// ******************Maths******************
+// ****************** Maths ******************
 console.log(Math);
 console.log(Math.abs(-4)); // Negative value converts into positive
 
