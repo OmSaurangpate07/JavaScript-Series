@@ -30,5 +30,6 @@ object
 
 console.log(typeof name);
 console.log(typeof age);
+console.log(typeof isLoggedIn);
 console.log(typeof null); // null datatype is object
 console.log(typeof undefined);
