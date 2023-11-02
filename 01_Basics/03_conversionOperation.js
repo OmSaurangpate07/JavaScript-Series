@@ -1,8 +1,8 @@
-// let score = "33"
+let score = "33"
 // let score = null
 // let score = undefined
 // let score = true
-let score = "Hitesh"
+// let score = "Hitesh"
 
 // console.log(typeof score)
 // console.log(typeof(score))
