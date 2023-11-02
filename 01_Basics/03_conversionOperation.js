@@ -74,6 +74,7 @@ let str3 = str1 + str2
 // 32
 
 
+// *********** Increment and Decrement ***********
 // console.log(true)
 console.log(+true)
 // console.log(true+)
