@@ -94,3 +94,20 @@ let gameCounter = 100
 // gameCounter++ //postfix value
 ++gameCounter //profix value
 console.log(gameCounter)
+
+// Post Increment
+// let firstNumber = 4;
+// const secondNumber = firstNumber++;
+
+// Pre Increment
+// let firstNumber = 4;
+// const secondNumber = ++firstNumber;
+
+// Post Decrement
+// let firstNumber = 4;
+// const secondNumber = firstNumber--;
+
+// Pre Decrement
+let firstNumber = 4;
+const secondNumber = --firstNumber;
+console.log(`${firstNumber} and ${secondNumber}`);
