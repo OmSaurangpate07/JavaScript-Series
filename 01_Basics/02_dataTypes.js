@@ -2,8 +2,8 @@
 // alert("Hello!") // we are using nodejs, not browser
 
 // code readability should be high
-console.log(3 + 3)
-console.log("Hitesh")
+console.log(3 + 3);
+console.log("Hitesh");
 
 /*
 JavaScript Documentation:
@@ -13,9 +13,9 @@ ECMA Script Documentation:
 https://tc39.es/
 */
 
-let name = "Hitesh"
-let age = 30
-let isLoggedIn = true
+let name = "Hitesh";
+let age = 30;
+let isLoggedIn = true;
 
 /* Datatypes:
 number => 2 to power 53
@@ -28,7 +28,7 @@ symbol => use for unique component
 object
 */
 
-console.log(typeof name)
-console.log(typeof age)
-console.log(typeof null) // null datatype is object
-console.log(typeof undefined)
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof null); // null datatype is object
+console.log(typeof undefined);
